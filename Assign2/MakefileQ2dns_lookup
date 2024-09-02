@@ -4,10 +4,10 @@ CXX = g++
 CXXFLAGS = -std=c++11 -Wall -pthread
 
 # Target executable
-TARGET = dns_lookup
+TARGET = dns_lookupQ2
 
 # Source files
-SRCS = main.cpp
+SRCS = dns_lookupQ2.cpp
 
 # Object files
 OBJS = $(SRCS:.cpp=.o)

@@ -5,10 +5,10 @@ CXX = g++
 CXXFLAGS = -std=c++11 -Wall
 
 # Target executable
-TARGET = lru_cache
+TARGET = lru_cacheQ2
 
 # Source files
-SRCS = main.cpp
+SRCS = lru_cacheQ2.cpp
 
 # Object files
 OBJS = $(SRCS:.cpp=.o)
