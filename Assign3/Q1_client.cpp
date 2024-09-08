@@ -50,27 +50,28 @@ void movement_thread(Movement &movement) {
 // Function to process received commands
 void process_command(const string& command, Movement& movement) {
     lock_guard<mutex> lock(movement_mutex);
-
-    if (command.rfind("Start", 0) == 0) {  // Start command with speed
+  
+    if (command.rfind("Start", 0) == 0) { 
+        // Start command with speed
         int speed = stoi(command.substr(6));  // Get speed from command
         movement.speed = speed;
         movement.On = true;
         movement.direction = "right";  // Default direction is right
         cout << "Started moving with speed " << movement.speed << endl;
 
-    } else if (command == "move left") {
+    } else if (command == "move_left") {
         movement.direction = "left";
         cout << "Changed direction to left" << endl;
 
-    } else if (command == "move right") {
+    } else if (command == "move_right") {
         movement.direction = "right";
         cout << "Changed direction to right" << endl;
 
-    } else if (command == "move up") {
+    } else if (command == "move_up") {
         movement.direction = "up";
         cout << "Changed direction to up" << endl;
 
-    } else if (command == "move down") {
+    } else if (command == "move_down") {
         movement.direction = "down";
         cout << "Changed direction to down" << endl;
 
@@ -82,6 +83,11 @@ void process_command(const string& command, Movement& movement) {
     } else if (command.rfind("dec", 0) == 0) {  // Decrease speed
         int decrement = stoi(command.substr(4));  // Get decrement value
         movement.speed = max(0, movement.speed - decrement);  // Ensure speed doesn't go below 0
+        if(movement.speed==0){
+            movement.On=false;
+            cout<<"Stopped moving"<<endl;
+        }
+        else
         cout << "Decreased speed by " << decrement << ", new speed: " << movement.speed << endl;
 
     } else if (command == "Stop") {  // Stop the movement
@@ -227,7 +233,7 @@ void send_telemetry_data(const string& server_ip, int port,const string& client_
     }
 
     // Optional sleep to ensure data is fully sent before closing
-    sleep(20);
+    sleep(100);
     }
 
     // Close the socket
