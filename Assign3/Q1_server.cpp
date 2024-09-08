@@ -180,7 +180,7 @@ void send_thread(SOCKET sockfd) {
             if (send_result == SOCKET_ERROR) {
                 cerr << "Send failed: " << WSAGetLastError() << endl;
             } else {
-                cout << "Sent command to client: " << command << endl;
+                cout << "Sent command to client "<< to_whom<<" : " << command << endl;
             }
         } else {
             cerr << "Client not found." << endl;
@@ -240,12 +240,14 @@ void udp_data_handler(int port) {
 void handle_file_transfer_quic(SOCKET client_socket) {
     char buffer[BUFFER_SIZE];
     
-    ofstream output_file("received_file", ios::binary);  // File to save the incoming data
+    ofstream output_file("3AsignCN", ios::binary);  // File to save the incoming data
 
     if (!output_file) {
         cerr << "Failed to open file for writing." << endl;
         return;
     }
+
+
 
 
     int bytes_received;
@@ -254,19 +256,20 @@ void handle_file_transfer_quic(SOCKET client_socket) {
         cerr << "Read failed with error: " << strerror(errno) << endl;
         return;
     }
-    string client_id(buffer, buffer + bytes_received);
 
-    while ((bytes_received = recv(client_socket, buffer, BUFFER_SIZE, 0)) > 0) {
-        output_file.write(buffer, bytes_received);
+    string client_id_quic(buffer, buffer + bytes_received);
+    while(true){
+        while ((bytes_received = recv(client_socket, buffer, BUFFER_SIZE, 0)) > 0) {
+            output_file.write(buffer, bytes_received);
+            cout<<"Chunk recieved from client  "<<client_id_quic<<" : "<<bytes_received <<endl;;
+        }
+        if (bytes_received == SOCKET_ERROR) {
+            cerr << "File receive failed: " << WSAGetLastError() << endl;
+        } else {
+            cout << "File received successfully from " << client_id_quic<< endl;
+        }
+        output_file.close();
     }
-
-    if (bytes_received == SOCKET_ERROR) {
-        cerr << "File receive failed: " << WSAGetLastError() << endl;
-    } else {
-        cout << "File received successfully from " << client_id<< endl;
-    }
-
-    output_file.close();
     closesocket(client_socket);
 }
 void quic_file_handler(int port){
