@@ -1,0 +1,3425 @@
+Initial Routing Tables:
+Routing Table for Router 0:
+To 4 via -1 Cost: INF
+To 3 via -1 Cost: INF
+To 2 via 2 Cost: 15
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via -1 Cost: INF
+To 3 via 3 Cost: 4
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via -1 Cost: INF
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 0 Cost: 15
+
+Routing Table for Router 3:
+To 4 via 4 Cost: 6
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 1 Cost: 4
+To 0 via -1 Cost: INF
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via 3 Cost: 6
+To 2 via -1 Cost: INF
+To 1 via -1 Cost: INF
+To 0 via -1 Cost: INF
+
+Iteration 0:
+Routing Table for Router 0:
+To 4 via -1 Cost: INF
+To 3 via 1 Cost: 7
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 10
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 7
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 4 Cost: 6
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 1 Cost: 7
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via 3 Cost: 6
+To 2 via 3 Cost: 7
+To 1 via 3 Cost: 10
+To 0 via -1 Cost: INF
+
+Iteration 1:
+Routing Table for Router 0:
+To 4 via 1 Cost: 13
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 9
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 7
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 4 Cost: 6
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via 3 Cost: 6
+To 2 via 3 Cost: 7
+To 1 via 3 Cost: 9
+To 0 via 3 Cost: 13
+
+Iteration 2:
+Routing Table for Router 0:
+To 4 via 1 Cost: 12
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 9
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 7
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 4 Cost: 6
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via 3 Cost: 6
+To 2 via 3 Cost: 7
+To 1 via 3 Cost: 9
+To 0 via 3 Cost: 12
+
+Iteration 3:
+Routing Table for Router 0:
+To 4 via 1 Cost: 12
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 9
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 7
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 4 Cost: 6
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via 3 Cost: 6
+To 2 via 3 Cost: 7
+To 1 via 3 Cost: 9
+To 0 via 3 Cost: 12
+
+No updates in iteration 3. Algorithm has converged.
+
+Simulating link failure between nodes 3 and 4...
+
+New intial table
+Routing Table for Router 0:
+To 4 via 1 Cost: 12
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 9
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 7
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via -1 Cost: INF
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: 7
+To 1 via 3 Cost: 9
+To 0 via 3 Cost: 12
+
+Iteration 0 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 12
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 9
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 1 Cost: 11
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 8
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 1 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 12
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 12
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 9
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 12
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 2 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 15
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 11
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 13
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 10
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 3 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 14
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 14
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 11
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 14
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 4 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 17
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 13
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 15
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 12
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 5 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 16
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 16
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 13
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 16
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 6 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 19
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 15
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 17
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 14
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 7 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 18
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 18
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 15
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 18
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 8 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 21
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 17
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 19
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 16
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 9 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 20
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 20
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 17
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 20
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 10 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 23
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 19
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 21
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 18
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 11 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 22
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 22
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 19
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 22
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 12 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 25
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 21
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 23
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 20
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 13 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 24
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 24
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 21
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 24
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 14 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 27
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 23
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 25
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 22
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 15 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 26
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 26
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 23
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 26
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 16 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 29
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 25
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 27
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 24
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 17 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 28
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 28
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 25
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 28
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 18 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 31
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 27
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 29
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 26
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 19 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 30
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 30
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 27
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 30
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 20 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 33
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 29
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 31
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 28
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 21 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 32
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 32
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 29
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 32
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 22 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 35
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 31
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 33
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 30
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 23 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 34
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 34
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 31
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 34
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 24 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 37
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 33
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 35
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 32
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 25 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 36
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 36
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 33
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 36
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 26 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 39
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 35
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 37
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 34
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 27 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 38
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 38
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 35
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 38
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 28 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 41
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 37
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 39
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 36
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 29 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 40
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 40
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 37
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 40
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 30 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 43
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 39
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 41
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 38
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 31 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 42
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 42
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 39
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 42
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 32 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 45
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 41
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 43
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 40
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 33 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 44
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 44
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 41
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 44
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 34 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 47
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 43
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 45
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 42
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 35 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 46
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 46
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 43
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 46
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 36 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 49
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 45
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 47
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 44
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 37 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 48
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 48
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 45
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 48
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 38 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 51
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 47
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 49
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 46
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 39 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 50
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 50
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 47
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 50
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 40 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 53
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 49
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 51
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 48
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 41 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 52
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 52
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 49
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 52
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 42 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 55
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 51
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 53
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 50
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 43 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 54
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 54
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 51
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 54
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 44 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 57
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 53
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 55
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 52
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 45 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 56
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 56
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 53
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 56
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 46 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 59
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 55
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 57
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 54
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 47 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 58
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 58
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 55
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 58
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 48 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 61
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 57
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 59
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 56
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 49 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 60
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 60
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 57
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 60
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 50 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 63
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 59
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 61
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 58
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 51 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 62
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 62
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 59
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 62
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 52 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 65
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 61
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 63
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 60
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 53 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 64
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 64
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 61
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 64
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 54 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 67
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 63
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 65
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 62
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 55 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 66
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 66
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 63
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 66
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 56 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 69
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 65
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 67
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 64
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 57 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 68
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 68
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 65
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 68
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 58 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 71
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 67
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 69
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 66
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 59 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 70
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 70
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 67
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 70
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 60 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 73
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 69
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 71
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 68
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 61 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 72
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 72
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 69
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 72
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 62 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 75
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 71
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 73
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 70
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 63 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 74
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 74
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 71
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 74
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 64 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 77
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 73
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 75
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 72
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 65 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 76
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 76
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 73
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 76
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 66 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 79
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 75
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 77
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 74
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 67 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 78
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 78
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 75
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 78
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 68 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 81
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 77
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 79
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 76
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 69 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 80
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 80
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 77
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 80
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 70 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 83
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 79
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 81
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 78
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 71 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 82
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 82
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 79
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 82
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 72 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 85
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 81
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 83
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 80
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 73 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 84
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 84
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 81
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 84
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 74 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 87
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 83
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 85
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 82
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 75 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 86
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 86
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 83
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 86
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 76 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 89
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 85
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 87
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 84
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 77 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 88
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 88
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 85
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 88
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 78 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 91
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 87
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 89
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 86
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 79 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 90
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 90
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 87
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 90
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 80 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 93
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 89
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 91
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 88
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 81 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 92
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 92
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 89
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 92
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 82 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 95
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 91
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 93
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 90
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 83 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 94
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 94
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 91
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 94
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 84 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 97
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 93
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 95
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 92
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 85 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 96
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 96
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 93
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 96
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 86 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 99
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 95
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 97
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 94
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 87 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 98
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 3 Cost: 98
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 95
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 98
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Iteration 88 after link failure:
+Routing Table for Router 0:
+To 4 via 1 Cost: 101
+To 3 via 1 Cost: 6
+To 2 via 1 Cost: 5
+To 1 via 1 Cost: 3
+To 0 via 0 Cost: 0
+
+Routing Table for Router 1:
+To 4 via 2 Cost: 97
+To 3 via 2 Cost: 3
+To 2 via 2 Cost: 2
+To 1 via 1 Cost: 0
+To 0 via 0 Cost: 3
+
+Routing Table for Router 2:
+To 4 via 3 Cost: 99
+To 3 via 3 Cost: 1
+To 2 via 2 Cost: 0
+To 1 via 1 Cost: 2
+To 0 via 1 Cost: 5
+
+Routing Table for Router 3:
+To 4 via 2 Cost: 96
+To 3 via 3 Cost: 0
+To 2 via 2 Cost: 1
+To 1 via 2 Cost: 3
+To 0 via 2 Cost: 6
+
+Routing Table for Router 4:
+To 4 via 4 Cost: 0
+To 3 via -1 Cost: INF
+To 2 via 3 Cost: INF
+To 1 via 3 Cost: INF
+To 0 via 3 Cost: INF
+
+Router 0 is experiencing the count-to-infinity problem for destination 4 with cost 101
