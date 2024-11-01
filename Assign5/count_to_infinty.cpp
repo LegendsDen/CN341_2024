@@ -217,6 +217,8 @@ bool isInPath(int startRouter, int destination,int inbetw) {
 };
 
 int main() {
+    freopen("input.txt","r",stdin);
+    freopen("output.txt","w",stdout);
     int numRouters = 5;
     Network network(numRouters);
 
