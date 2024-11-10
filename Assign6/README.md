@@ -21,5 +21,7 @@ Installation procedure
  chmod +x waf
 
 Execution:
+
+For part B:
  Execute ./waf --run "scratch/partB --rtsCtsThreshold=true" in ns3 folder where waf is present. For enabling rtsCts as true , use true above, else use false.
 
