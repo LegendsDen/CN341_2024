@@ -36,11 +36,11 @@ Each module is implemented in Python or C++, using raw sockets or simulation too
 ## **📂 Assignment Structure**
 ```
 cs341-networking-project/
-├── Assignment1_HTTP_Proxy_DNS/
-├── Assignment2_Drone_Weather_TCP_UDP/
-├── Assignment3_Scheduling_iSLIP/
-├── Assignment4_Distance_Vector_Routing/
-├── Assignment5_NS3_CSMA_CD_CA/
+├── Assignment2_HTTP_Proxy_DNS/
+├── Assignment3_Drone_Weather_TCP_UDP/
+├── Assignment4_Scheduling_iSLIP/
+├── Assignment5_Distance_Vector_Routing/
+├── Assignment6_NS3_CSMA_CD_CA/
 └── README.md
 ```
 ---
