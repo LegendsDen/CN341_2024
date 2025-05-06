@@ -105,7 +105,7 @@ cs341-networking-project/
 
 ## 👨‍💻 Author
 
-**Sushant Kumar**  
+**Sushant Kumar   Sneh Dhandania   Simon Shangpliang   Priaynshu Pratyay**  
 Course: **CS341 – Computer Networks Lab**  
 Institution: **IIT Guwahati**  
 Year: **2024**
