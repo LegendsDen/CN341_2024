@@ -1,4 +1,4 @@
-# 📡 CS341 Networking Project – A Comprehensive Systems-Level Exploration
+# 📡 CS342 Networking Project – A Comprehensive Systems-Level Exploration
 
 This repository contains the full set of assignments completed as part of the **CS341: Computer Networks Laboratory** course. The project is divided into five progressively complex modules, each exploring key aspects of computer networking through simulation, protocol implementation, monitoring, and performance analysis.
 
