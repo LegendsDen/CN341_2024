@@ -104,7 +104,7 @@ cs341-networking-project/
 
 ## 👨‍💻 Author
 
-Course: **CS341 – Computer Networks Lab**  
+Course: **CS342 – Computer Networks Lab**  
 Institution: **IIT Guwahati**  
 Year: **2024**
 
